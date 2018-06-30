@@ -20,14 +20,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gregchamberlain/react-chips.git"
+    "url": "git+https://github.com/SerjSmor/react-chips.git"
   },
   "author": "Greg Chamberlain <gregchamberlain94@gmail.com> (https://gregchamberlain.github.io)",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/gregchamberlain/react-chips/issues"
+    "url": "https://github.com/SerjSmor/react-chips/issues"
   },
-  "homepage": "https://github.com/gregchamberlain/react-chips#readme",
+  "homepage": "https://github.com/SerjSmor/react-chips#readme",
   "devDependencies": {
     "@kadira/storybook": "^2.21.0",
     "babel-cli": "^6.16.0",
